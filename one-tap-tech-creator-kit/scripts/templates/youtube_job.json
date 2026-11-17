@@ -1,0 +1,16 @@
+{
+  "mode": "update",
+  "video_id": "PASTE_VIDEO_ID_HERE",
+  "file": "01_Videos/V01_My_Video/10_Final_YouTube/final.mp4",
+  "title": "Your search-first title | Hook",
+  "description_file": "01_Videos/V01_My_Video/11_Publishing/description.txt",
+  "tags": ["main search phrase", "second phrase"],
+  "category_id": "28",
+  "language": "en",
+  "audio_language": "en",
+  "privacy": "private",
+  "publish_at": "",
+  "thumbnail": "01_Videos/V01_My_Video/07_Thumbnails/thumbnail.jpg",
+  "made_for_kids": false,
+  "contains_synthetic_media": false
+}
